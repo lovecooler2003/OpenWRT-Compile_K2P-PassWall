@@ -1,5 +1,6 @@
 # 项目说明
 
+- 斐讯分区
 - 不修改任何代码
 - 直接获取源码编译
 - 添加PassWall、Syncdial、TurboACC、DDNS、UPnP。
