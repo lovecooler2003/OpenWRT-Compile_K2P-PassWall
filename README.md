@@ -1,4 +1,13 @@
-# Actions-OpenWrt
+# 项目说明
+
+- 不修改任何代码
+- 直接获取源码编译
+- 添加PassWall、Syncdial、TurboACC、DDNS、UPnP。
+- 后台IP：192.168.1.1
+- 源码默认忽略 DHCP/DNS 里高级设置的 AAAA
+
+
+## Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/P3TERX/Actions-OpenWrt.svg?style=flat-square&label=Stars&logo=github)](https://github.com/P3TERX/Actions-OpenWrt/stargazers)
